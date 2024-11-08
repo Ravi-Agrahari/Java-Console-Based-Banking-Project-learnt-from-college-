@@ -65,5 +65,7 @@ public abstract class Account {
         this.balance = balance;
     }
     
+    public abstract String getAccountDetails() ; 
+    
     
 }
